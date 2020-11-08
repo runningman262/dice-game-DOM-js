@@ -10,3 +10,5 @@ Game instructions:
 The object of the game is to get a total score equal to or greater than the "Play Until" score.
 You can roll as many times as you wish on each turn.
 However, if you roll two 6's in a row you have rolled a 1, you lose your current turn score.
+
+Initial starter CSS and HTML code and images obtained from Schmedtmann, Jonas.  (2020).  Complete-JavaScript-Course: 07-Pig-Game.  Retrieved Feb 9, 2020, from https://github.com/jonasschmedtmann/complete-javascript-course/tree/master/07-Pig-Game/starter.
